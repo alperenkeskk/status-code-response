@@ -1,2 +1,2 @@
 # status-code-response
-Shell Scripting http status code 
+Bug Bounty kapsamın da hedef sitenin subdomainlerini bulduktan sonra, hangi subdomainlerin aktif olduğunu manuel denemeden otomatik olarak bulmamızda yardımcı oluyor.
